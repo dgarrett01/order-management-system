@@ -1,0 +1,35 @@
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\bin\Debug\WSCPreBuild.exe.config
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.exe
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.pdb
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\bin\Debug\WSCPreBuild.exe
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\bin\Debug\WSCPreBuild.pdb
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCProject_DGarrett01.csprojResolveAssemblyReference.cache
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.CreateCustomer.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.NewOrder.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.CustomerSearch.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.frmEmployeeLogin.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.OpsManagerHome.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.ProductionHome.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.Properties.Resources.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.SalesPersonHome.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.ShippingHome.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Week #4\WSCProject_DGarrett01\obj\Debug\WSCProject_DGarrett01.csproj.GenerateResource.Cache
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\bin\Debug\WSCPreBuild.exe.config
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.exe
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.pdb
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\bin\Debug\WSCPreBuild.exe
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\bin\Debug\WSCPreBuild.pdb
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCProject_DGarrett01.csprojResolveAssemblyReference.cache
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.CreateCustomer.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.NewOrder.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.CustomerSearch.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.frmEmployeeLogin.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.OpsManagerHome.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.ProductionHome.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.Properties.Resources.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.SalesPersonHome.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.ShippingHome.resources
+F:\Google Drive\School\Classes\DeVry University\July 2014\CIS 470\Project\WSCProject_DGarrett01\obj\Debug\WSCProject_DGarrett01.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\WSCProject\WSCProject_DGarrett01\bin\Debug\WSCPreBuild.exe.config
+C:\Users\David\Desktop\WSCProject\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.exe
+C:\Users\David\Desktop\WSCProject\WSCProject_DGarrett01\obj\Debug\WSCPreBuild.pdb

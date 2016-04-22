@@ -1,0 +1,16 @@
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\bin\Debug\WSCPreBuild.exe.config
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\bin\Debug\WSCPreBuild.exe
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\bin\Debug\WSCPreBuild.pdb
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.csprojResolveAssemblyReference.cache
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.CreateCustomer.resources
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.NewOrder.resources
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.frmEmployeeLogin.resources
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.Properties.Resources.resources
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.csproj.GenerateResource.Cache
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.exe
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.pdb
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.CustomerSearch.resources
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.SalesPersonHome.resources
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.OpsManagerHome.resources
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.ProductionHome.resources
+F:\Google Drive\Programming\C#\WSCPreBuild\WSCPreBuild\obj\Debug\WSCPreBuild.ShippingHome.resources
